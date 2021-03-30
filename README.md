@@ -20,7 +20,7 @@ In this project, a spreadsheet application has been created. The application has
 3. Exexute the below command to install the dependencies:
     &nbsp; &nbsp;  ```pip install -r requirements.txt```
 4. To run the application execute:
-    &nbsp; &nbsp;  ```python3 spreadsheet.py```
+    &nbsp; &nbsp;  ```python spreadsheet.py```
 
 ## Demo Video
 
